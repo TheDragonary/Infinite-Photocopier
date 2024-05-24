@@ -10,3 +10,18 @@ You can change the image to whatever you want, all you have to do is edit `main.
 I don't care what you do with this, go, have fun, troll someone or whatever, create an army of The Rock.
 
 ![](https://github.com/TheDragonary/Infinite-Photocopier/blob/main/rock.jpg)
+
+## Building
+Clone the repo
+```
+git clone https://github.com/TheDragonary/Infinite-Photocopier.git
+```
+### Windows
+Install cx_freeze
+```
+pip install cx_freeze
+```
+Open a terminal and run the setup file
+```
+python setup.py build
+```
